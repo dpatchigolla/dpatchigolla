@@ -5,7 +5,7 @@ Hi there 👋 I am a Data Scientist, currently working in the space of Search an
 
 - 🔭 My current projects are mostly around NLP and personalization.
 - 🌱 I am also doing an MS in Analytics remotely, from Georgia Institute of Technology. Do checkout [here](https://www.gatech.edu/academics/degrees/masters/analytics-online-degree-oms-analytics) if you are interested in the program.
-- 📫 I am reachable at dileep.patchigolla@gmail.com. I am also on [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
+- 📫 You can connect me on Twitter [@dileep31](https://twitter.com/dileep31). I am also on [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
 - 😄 Pronouns: He/Him.
 - ⚡ I write a few blogs occasionally on Data Science. Check my Medium [profile](https://medium.com/@dileep.patchigolla/).
 
