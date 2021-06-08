@@ -3,11 +3,12 @@
 Hi there 👋 I am a Data Scientist, currently working in the space of Search and Relevancy. 
 
 
-- :speech_balloon:  My current projects are mostly around NLP and personalization.
-- :student:  MS in Analytics (Georgia Institute of Technology)
-- :school: BTech in Mechanical Engg (IIT Madras)
-- :link:  You can connect me on Twitter [@dileep31](https://twitter.com/dileep31). I am also on [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
-- :loudspeaker:  I write a few blogs occasionally on Data Science. Check my Medium [profile](https://medium.com/@dileep.patchigolla/).
+- My current projects are mostly around NLP 💬 and personalization
+- Love working with numbers 📊 and python 🐍
+- 👨‍🎓 MS in Analytics (Georgia Institute of Technology)
+- 🏫 BTech in Mechanical Engg (IIT Madras)
+- 🔗 You can connect me on Twitter [@dileep31](https://twitter.com/dileep31). I am also on [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
+- 📢 I write a few blogs occasionally on Data Science. Check my Medium [profile](https://medium.com/@dileep.patchigolla/).
  
 <!--
 **dpatchigolla/dpatchigolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
