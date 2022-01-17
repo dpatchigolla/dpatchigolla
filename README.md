@@ -1,9 +1,9 @@
 ## Dileep Kumar Patchigolla
 
-Hi there 👋 I am a Data Scientist, currently working in the space of Search and Relevancy. 
+Hi there 👋 I am a Data Scientist, currently working with RudderStack
 
 
-- My current projects are mostly around NLP 💬 and personalization
+- My past projects are mostly around NLP 💬 , personalization, and recommender systems
 - Love working with numbers 📊 and python 🐍
 - 👨‍🎓 MS in Analytics (Georgia Institute of Technology)
 - 🏫 BTech in Mechanical Engg (IIT Madras)
