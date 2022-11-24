@@ -1,13 +1,13 @@
 ## Dileep Kumar Patchigolla
 
-Hi there 👋 I am a Data Scientist, currently working with RudderStack
+Hi there, I am a Data Scientist, currently working with RudderStack
 
 
-- My past projects are mostly around NLP 💬 , personalization, and recommender systems
-- I Love working with numbers 📊 and python 🐍
-- 👨‍🎓 I have an MS in Analytics (Georgia Institute of Technology)
-- 🔗 You can connect me on Twitter [@dileep31](https://twitter.com/dileep31) and [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
-- 📢 I write a few blogs occasionally on Data Science. Check my out Medium [profile](https://medium.com/@dileep.patchigolla/).
+- My past projects are mostly around NLP, personalization, and recommender systems
+- I Love working with numbers and python 
+- I have an MS in Analytics (Georgia Institute of Technology)
+- You can connect me on Twitter [@dileep31](https://twitter.com/dileep31) and [LinkedIn](https://www.linkedin.com/in/dileep-kumar-a747371b/).
+- I write a few blogs occasionally on Data Science. Check my out Medium [profile](https://medium.com/@dileep.patchigolla/).
  
 <!--
 **dpatchigolla/dpatchigolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
